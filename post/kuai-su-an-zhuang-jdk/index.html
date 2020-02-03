@@ -2,7 +2,7 @@
   <head>
     <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>关于 | Gridea</title>
+<title>快速安装jdk | Gridea</title>
 <meta name="description" content="温故而知新" />
 <link rel="shortcut icon" href="http://amos-li.github.io/favicon.ico?v=1580745699568">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
@@ -73,11 +73,11 @@
         <div class="post-detail">
           <article class="post">
             <h2 class="post-title">
-              关于
+              快速安装jdk
             </h2>
             <div class="post-info">
               <span>
-                2019-01-25
+                2020-02-04
               </span>
               <span>
                 1 min read
@@ -87,7 +87,15 @@
             
             <div class="post-content-wrapper">
               <div class="post-content">
-                <p>这是关于的页面，可以在这里向世界介绍你！</p>
+                <pre><code>curl -L -b &quot;oraclelicense=a&quot; -O https://download.oracle.com/otn-pub/java/jdk/8u201-b09/42970487e3af4f5aa5bca3f542482c60/jdk-8u201-linux-x64.tar.gz
+sudo mkdir /usr/local/oracle-java-8
+sudo tar -zxf jdk-8u201-linux-x64.tar.gz -C /usr/local/oracle-java-8
+
+sudo update-alternatives --install &quot;/usr/bin/java&quot; &quot;java&quot; &quot;/usr/local/oracle-java-8/jdk1.8.0_201/bin/java&quot; 1500
+sudo update-alternatives --install &quot;/usr/bin/javac&quot; &quot;javac&quot; &quot;/home/jdk1.8.0_131/bin/javac&quot; 1500
+sudo update-alternatives --install &quot;/usr/bin/javaws&quot; &quot;javaws&quot; &quot;/home/jdk1.8.0_131/bin/javaws&quot; 1500
+sudo update-alternatives --install &quot;/usr/bin/jcmd&quot; &quot;jcmd&quot; &quot;/home/jdk1.8.0_131/bin/jcmd&quot; 1500
+</code></pre>
 
               </div>
               <div class="toc-container">
@@ -97,6 +105,15 @@
           </article>
         </div>
 
+        
+          <div class="next-post">
+            <div class="next">下一篇</div>
+            <a href="http://amos-li.github.io/post/hello-gridea">
+              <h3 class="post-title">
+                Hello Gridea
+              </h3>
+            </a>
+          </div>
         
 
         
