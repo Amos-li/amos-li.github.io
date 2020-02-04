@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://amos-li.github.io</id>
     <title>amos&apos; s blog</title>
-    <updated>2020-02-04T13:21:01.110Z</updated>
+    <updated>2020-02-04T13:33:52.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://amos-li.github.io"/>
     <link rel="self" href="https://amos-li.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://amos-li.github.io/images/avatar.png</logo>
     <icon>https://amos-li.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, amos&apos; s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[冠状肺炎有感]]></title>
+        <id>https://amos-li.github.io/post/guan-zhuang-fei-yan-you-gan</id>
+        <link href="https://amos-li.github.io/post/guan-zhuang-fei-yan-you-gan">
+        </link>
+        <updated>2020-02-04T13:31:19.000Z</updated>
+        <content type="html"><![CDATA[<p>在家已经隔离了十四天了😂，本来以为可以好好休息一下，结果感觉还不如正常上班。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[快速安装jdk]]></title>
         <id>https://amos-li.github.io/post/kuai-su-an-zhuang-jdk</id>
