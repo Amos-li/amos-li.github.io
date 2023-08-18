@@ -1,9 +1,22 @@
 ---
 title: "周五"
 date: "2023-08-18"
-categories: [news]
+categories: [杂谈]
+image: img/changanyu.jpeg
 ---
 
 # 周五
 
 周五, 限行, 一个人在公司还没有走. 😭
+
+脑子里面一片空白， 不知道下来的路怎么走？
+
+跟潮，立几个`flag`:
+
+1.  减肥 目标 75公斤 时间 明年这个时间
+
+2.  找到自己想做的事，不要这样荒废自己 毕竟自己的人生以已经如下
+
+    ![](https://progress-bar.dev/40/?title=Completed)
+
+3.  认真工作， 早点回家，争取更多的闲暇时间。
