@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://Amos-li.github.io/amos-li.github.io/about.html</loc>
-    <lastmod>2023-08-18T12:44:57.090Z</lastmod>
+    <loc>https://github.com/Amos-li/amos-li.github.io/about.html</loc>
+    <lastmod>2023-08-18T13:00:57.205Z</lastmod>
   </url>
   <url>
-    <loc>https://Amos-li.github.io/amos-li.github.io/posts/welcome/index.html</loc>
-    <lastmod>2023-08-18T12:44:56.357Z</lastmod>
+    <loc>https://github.com/Amos-li/amos-li.github.io/posts/2023-08-18.html</loc>
+    <lastmod>2023-08-18T13:00:56.677Z</lastmod>
   </url>
   <url>
-    <loc>https://Amos-li.github.io/amos-li.github.io/posts/post-with-code/index.html</loc>
-    <lastmod>2023-08-18T12:44:55.992Z</lastmod>
+    <loc>https://github.com/Amos-li/amos-li.github.io/index.html</loc>
+    <lastmod>2023-08-18T13:00:55.409Z</lastmod>
   </url>
   <url>
-    <loc>https://Amos-li.github.io/amos-li.github.io/index.html</loc>
-    <lastmod>2023-08-18T12:44:56.807Z</lastmod>
+    <loc>https://github.com/Amos-li/amos-li.github.io/posts/post-with-code/index.html</loc>
+    <lastmod>2023-08-18T13:00:56.265Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/Amos-li/amos-li.github.io/posts/welcome/index.html</loc>
+    <lastmod>2023-08-18T13:00:56.945Z</lastmod>
   </url>
 </urlset>
