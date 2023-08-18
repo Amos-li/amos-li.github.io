@@ -3,7 +3,6 @@ title: "周五"
 date: "2023-08-18"
 categories: [杂谈]
 image: img/changanyu.jpeg
-eed31069b316aef597cdea1538b3580285eeb9d0
 ---
 
 # 周五
