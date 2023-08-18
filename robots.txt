@@ -1,1 +1,1 @@
-Sitemap: https://github.com/Amos-li/amos-li.github.io/sitemap.xml
+Sitemap: https://Amos-li.github.io/amos-li.github.io/sitemap.xml
