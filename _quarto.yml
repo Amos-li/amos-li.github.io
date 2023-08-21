@@ -15,6 +15,9 @@ format:
   html:
     theme: cosmo
     css: styles.css
+comments:
+  utterances:
+    repo: Amos-li/amos-li.github.io
 
 
 
