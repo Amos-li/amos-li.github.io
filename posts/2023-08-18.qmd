@@ -22,3 +22,16 @@ image: img/changanyu.jpeg
     ![](https://progress-bar.dev/40/?title=Completed)
 
 3.  认真工作， 早点回家，争取更多的闲暇时间。
+
+::: {.content-visible when-format="html"}
+
+<script src="https://utteranc.es/client.js"
+        repo="https://github.com/Amos-li/amos-li.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+
+:::
+
