@@ -1,1 +1,6 @@
 /* css styles */
+#quarto-back-to-top{
+    right:-10px;
+    left:auto;
+    z-index: 1000;
+}

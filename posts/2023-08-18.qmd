@@ -22,6 +22,3 @@ image: img/changanyu.jpeg
     ![](https://progress-bar.dev/40/?title=Completed)
 
 3.  认真工作， 早点回家，争取更多的闲暇时间。
-
-
-
