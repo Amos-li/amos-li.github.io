@@ -1,37 +1,37 @@
 [
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "First blog by Quarto",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "First blog by Quarto\necho('Hello word');\n\n\n\nCaption"
+    "text": "一个低级趣味的老年程序员\n\n\n Back to top"
   },
   {
     "objectID": "posts/2023-08-18.html",
     "href": "posts/2023-08-18.html",
     "title": "周五",
     "section": "",
-    "text": "周五\n周五, 限行, 一个人在公司还没有走. 😭\n\n\n\n\n\n脑子里面一片空白， 不知道下来的路怎么走？\n跟潮，立几个flag:\n\n减肥 目标 75公斤 时间 明年这个时间\n找到自己想做的事，不要这样荒废自己 毕竟自己的人生以已经如下\n\n认真工作， 早点回家，争取更多的闲暇时间。"
+    "text": "周五\n周五, 限行, 一个人在公司还没有走. 😭\n\n\n\n\n\n脑子里面一片空白， 不知道下来的路怎么走？\n跟潮，立几个flag:\n\n减肥 目标 75公斤 时间 明年这个时间\n找到自己想做的事，不要这样荒废自己 毕竟自己的人生以已经如下\n\n认真工作， 早点回家，争取更多的闲暇时间。\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "amos’s blog",
     "section": "",
-    "text": "周五\n\n\n\n\n\n\n\n杂谈\n\n\n\n\n\n\n\n\n\n\n\nAug 18, 2023\n\n\n\n\n\n\n  \n\n\n\n\nFirst blog by Quarto\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nAug 18, 2023\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nAug 15, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "First blog by Quarto\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nAug 18, 2023\n\n\n\n\n\n\n  \n\n\n\n\n周五\n\n\n\n\n\n\n\n杂谈\n\n\n\n\n\n\n\n\n\n\n\nAug 18, 2023\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nAug 15, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items\n\n Back to top"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "First blog by Quarto",
     "section": "",
-    "text": "一个低级趣味的老年程序员"
+    "text": "First blog by Quarto\necho('Hello word');\n\n\n\nCaption\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
     "title": "Welcome To My Blog",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts.\n\n\n\n Back to top"
   }
 ]
